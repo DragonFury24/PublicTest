@@ -9,6 +9,6 @@ public class ImplementingClass extends Interface {
 
 	public void methodWithArguments(int num1, int num2, String name) {
 		System.out.println("When implementing a method from the interface with arguments
-					you need to have the same arguments");
+					        you need to have the same arguments");
 	}
 }
